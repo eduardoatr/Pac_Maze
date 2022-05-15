@@ -1,0 +1,14 @@
+####################
+#DLLLLLLLLLLLLL#RRD#
+#DLL&DL&DL&DLLL#RRD#
+#DLLLLLLLLLLLLL#U#D#
+#D##############U#D#
+#RRRRRRRRRRRRRRRU#D#
+##################D#
+#DLLLLLLL&RRRDLLLLL#
+#D&DL########DLL&DL#
+#DLLLLLLLLLLLLLLLLL#
+#D################U#
+#D#RRRRD#0#RRRRRRRU#
+#RRRU#RRRU#RRRRRRRU#
+####################
